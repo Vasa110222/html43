@@ -1,0 +1,2 @@
+# html43
+&lt;html> &lt;head> &lt;title>чем кормить?&lt;/title> &lt;link rel="stylesheet" href=" имя.css"/> &lt;/head> &lt;body>     &lt;main>         &lt;h1>Чем кормить кошару?&lt;/h1>         &lt;p>Кормом!НО не собачьим и мышачьим а именно кошачьим!!!!!!!&lt;/p>         &lt;img src="https://fun-cats.ru/wp-content/uploads/c/3/a/c3a35adf0b6e35dd84a6122e76f4cf78.jpeg">     &lt;/main>       &lt;footer>           &lt;p>Адрес и телефон на другой странице&lt;/p>       &lt;/footer> &lt;/body> &lt;/html>
