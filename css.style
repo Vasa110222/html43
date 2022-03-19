@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+    color:red;
+}
+
+p{
+     color: brown;
+}
+img{
+    width: 350px;
+}
+
+footer{
+    background-color: black;
+}
+
+footer p{
+    color: white;
+}
